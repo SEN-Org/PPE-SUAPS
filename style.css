@@ -1,0 +1,7 @@
+
+.jumbotron{
+  background-image: url(Images/imageGolfAccueil.svg);
+  color: white;
+  font-family: Lucida Sans Unicode;
+  filter: brightness(85%);
+}
